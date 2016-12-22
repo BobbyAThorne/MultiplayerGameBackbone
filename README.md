@@ -15,9 +15,11 @@ method of how to handle adding others to the canvas is not
 implemented. 
 
 There is no way to make other users admins unless if you manually 
-update the sql file but the one currently on file is 
+update the sql file but the one currently on file is:
 username: bobthorne 
 password: newuser
+
+#Must run batch file to create database.
 *********************************************************************
 Features: 
 
