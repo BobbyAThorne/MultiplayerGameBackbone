@@ -1,0 +1,24 @@
+C:\Users\Bobby Thorne\documents\visual studio 2015\Projects\GameAndChill\GameDatabaseAccessor\bin\Debug\GameDatabaseAccessor.dll
+C:\Users\Bobby Thorne\documents\visual studio 2015\Projects\GameAndChill\GameDatabaseAccessor\bin\Debug\GameDatabaseAccessor.pdb
+C:\Users\Bobby Thorne\documents\visual studio 2015\Projects\GameAndChill\GameDatabaseAccessor\bin\Debug\GameDataObjects.dll
+C:\Users\Bobby Thorne\documents\visual studio 2015\Projects\GameAndChill\GameDatabaseAccessor\bin\Debug\GameDataObjects.pdb
+C:\Users\Bobby Thorne\documents\visual studio 2015\Projects\GameAndChill\GameDatabaseAccessor\obj\Debug\GameDatabaseAccessor.csprojResolveAssemblyReference.cache
+C:\Users\Bobby Thorne\documents\visual studio 2015\Projects\GameAndChill\GameDatabaseAccessor\obj\Debug\GameDatabaseAccessor.dll
+C:\Users\Bobby Thorne\documents\visual studio 2015\Projects\GameAndChill\GameDatabaseAccessor\obj\Debug\GameDatabaseAccessor.pdb
+C:\Users\Bobby Thorne\documents\visual studio 2015\Projects\GameAndChill\GameDatabaseAccessor\bin\Debug\GameDatabaseAccessor.dll.config
+F:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\bin\Debug\GameDatabaseAccessor.dll.config
+F:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\bin\Debug\GameDatabaseAccessor.dll
+F:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\bin\Debug\GameDatabaseAccessor.pdb
+F:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\bin\Debug\GameDataObjects.dll
+F:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\bin\Debug\GameDataObjects.pdb
+F:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\obj\Debug\GameDatabaseAccessor.csprojResolveAssemblyReference.cache
+F:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\obj\Debug\GameDatabaseAccessor.dll
+F:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\obj\Debug\GameDatabaseAccessor.pdb
+E:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\bin\Debug\GameDatabaseAccessor.dll.config
+E:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\bin\Debug\GameDatabaseAccessor.dll
+E:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\bin\Debug\GameDatabaseAccessor.pdb
+E:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\bin\Debug\GameDataObjects.dll
+E:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\bin\Debug\GameDataObjects.pdb
+E:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\obj\Debug\GameDatabaseAccessor.csprojResolveAssemblyReference.cache
+E:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\obj\Debug\GameDatabaseAccessor.dll
+E:\UpdatedGameAndChill\GameAndChill\GameDatabaseAccessor\obj\Debug\GameDatabaseAccessor.pdb

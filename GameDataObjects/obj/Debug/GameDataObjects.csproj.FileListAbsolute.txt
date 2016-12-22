@@ -1,0 +1,15 @@
+C:\Users\Bobby Thorne\documents\visual studio 2015\Projects\GameAndChill\GameDataObjects\bin\Debug\GameDataObjects.dll
+C:\Users\Bobby Thorne\documents\visual studio 2015\Projects\GameAndChill\GameDataObjects\bin\Debug\GameDataObjects.pdb
+C:\Users\Bobby Thorne\documents\visual studio 2015\Projects\GameAndChill\GameDataObjects\obj\Debug\GameDataObjects.dll
+C:\Users\Bobby Thorne\documents\visual studio 2015\Projects\GameAndChill\GameDataObjects\obj\Debug\GameDataObjects.pdb
+C:\Users\Bobby Thorne\Documents\Visual Studio 2015\Projects\GameAndChill\GameDataObjects\obj\Debug\GameDataObjects.csprojResolveAssemblyReference.cache
+F:\UpdatedGameAndChill\GameAndChill\GameDataObjects\bin\Debug\GameDataObjects.dll
+F:\UpdatedGameAndChill\GameAndChill\GameDataObjects\bin\Debug\GameDataObjects.pdb
+F:\UpdatedGameAndChill\GameAndChill\GameDataObjects\obj\Debug\GameDataObjects.csprojResolveAssemblyReference.cache
+F:\UpdatedGameAndChill\GameAndChill\GameDataObjects\obj\Debug\GameDataObjects.dll
+F:\UpdatedGameAndChill\GameAndChill\GameDataObjects\obj\Debug\GameDataObjects.pdb
+E:\UpdatedGameAndChill\GameAndChill\GameDataObjects\bin\Debug\GameDataObjects.dll
+E:\UpdatedGameAndChill\GameAndChill\GameDataObjects\bin\Debug\GameDataObjects.pdb
+E:\UpdatedGameAndChill\GameAndChill\GameDataObjects\obj\Debug\GameDataObjects.csprojResolveAssemblyReference.cache
+E:\UpdatedGameAndChill\GameAndChill\GameDataObjects\obj\Debug\GameDataObjects.dll
+E:\UpdatedGameAndChill\GameAndChill\GameDataObjects\obj\Debug\GameDataObjects.pdb
